@@ -1,12 +1,11 @@
-// Create a new Uint8Array to represent an array of unsigned 8-bit integers (bytes)
-// Each value must be between 0 and 255 (inclusive), as it represents a single byte
-// Binary representations:
-//   0   -> 00000000
-// 255   -> 11111111
-// 127   -> 01111111
-// 128   -> 10000000
 let bytes = new Uint8Array([0, 255, 127, 128]);
 
-// Log the Uint8Array to the console
-// It displays the array in its decimal representation: [0, 255, 127, 128]
+// Uint8Array is a typed array that represents an array of unsigned 8-bit integers (bytes).
+// Each value must be between 0 and 255 (inclusive), as it represents a single byte.
+// It is commonly used to handle binary data or byte arrays, with each element being a byte.
+// For example:
+//   0   -> 00000000  (binary representation)
+//  255  -> 11111111  (binary representation)
+//  127  -> 01111111  (binary representation)
+//  128  -> 10000000  (binary representation)
 console.log(bytes);
