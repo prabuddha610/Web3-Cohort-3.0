@@ -123,9 +123,18 @@ Gwei is a larger unit of Ether commonly used in the context of gas prices.
 - **Conversion**: 1 Ether = \(10^9\) Gwei.
 
 ---
-
 # What is Lamports?
 
-In the Solana blockchain, the smallest unit of currency is called a lamport. Just as Wei is to Ether in Ethereum, lamports are to SOL (the native token of Solana).
+In the Solana blockchain, the smallest unit of currency is **Lamport**, similar to **Wei** in Ethereum.
 
-- **Value**: 1 SOL = \(10^9\) Lamports.
+## Value of Lamports
+- **1 SOL = 10⁹ Lamports**
+- Allows precise transactions and fee calculations.
+
+## Origin
+Named after **Leslie Lamport**, a pioneer in distributed systems.
+
+## Importance
+- Enables microtransactions
+- Used for transaction fees
+- Essential for smart contracts
