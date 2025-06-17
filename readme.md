@@ -14,3 +14,6 @@ Simply run the following commands in your terminal to clone the repository and s
 
 ```bash
 https://github.com/irohandev/Web3-Cohort-3.0.git
+
+
+https://www.notion.so/Rahul-Proof-of-work-1fb5c22c2c7b800eb2d1e3d9b8745d59
